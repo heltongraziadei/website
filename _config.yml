@@ -29,7 +29,7 @@ author:
   bio              : "Assistant Professor of Statistics"
   location         : "São Carlos, Brazil"
   employer         : "Department of Statistics, UFSCar"
-  uri              : "https://www.des.ufscar.br"
+  uri              : #
   email            : "helton@ufscar.br"
 
   # Academic websites
