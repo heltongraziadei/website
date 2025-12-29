@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Helton Graziadei — Statistics"
+title: "Helton Graziadei"
 author_profile: true
 redirect_from:
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 Hi! I’m an Assistant Professor of Statistics at the Federal University of São Carlos (UFSCar), Brazil. My research interests lie at the intersection of statistical modeling, machine learning, and uncertainty quantification. I teach modern statistical methods and work on applied research projects—often in time series, actuarial science, and risk modeling.
 
 ## Education
-- PhD in Statistics**, **University of São Paulo (USP), including a one-year visiting period at Bocconi University.
-- MSc in Statistics**, **University of São Paulo (USP)
-- BSc in Statistics**, University of São Paulo (USP)
+- **PhD in Statistics**, **University of São Paulo (USP)**, including a one-year visiting period at Bocconi University.
+- **MSc in Statistics**, **University of São Paulo (USP)**
+- **BSc in Statistics**, **University of São Paulo (USP)**
 
 ## Research interests
 - Time series forecasting (including integer-valued forecasting)
