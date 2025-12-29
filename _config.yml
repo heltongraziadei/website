@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Helton Graziadei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor of Statistics"
   location         : "São Carlos, Brazil"
   employer         : "Department of Statistics, UFSCar"
-  uri              : # URL
+  uri              : "https://www.des.ufscar.br"
   email            : "helton@ufscar.br"
 
   # Academic websites
