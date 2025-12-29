@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an Assistant Professor of Statistics at the Federal University of São Carlos (UFSCar), Brazil. My research interests lies at the intersection of statistical modeling, machine learning, and uncertainty quantification. I develop and teach modern statistical methods, and I build applied research projects—often in time series, actuarial science, and risk modeling. 
+Hi! I’m an Assistant Professor of Statistics at the Federal University of São Carlos (UFSCar), Brazil. My research interests lie at the intersection of statistical modeling, machine learning, and uncertainty quantification. I develop and teach modern statistical methods, and I build applied research projects—often in time series, actuarial science, and risk modeling. 
 
 - Teaching: probability, statistical inference, regression/GLMs, machine learning, time series, and applied data science  
 - Research: methods for reliable prediction (especially prediction intervals) and model assessment under realistic assumptions  
