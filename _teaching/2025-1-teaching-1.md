@@ -4,6 +4,6 @@ collection:
 type:
 permalink: 
 venue:
-date: 
+date: ""
 location:
 ---
