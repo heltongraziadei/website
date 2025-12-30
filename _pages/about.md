@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m an Assistant Professor of Statistics at the Federal University of São Carlos (UFSCar), Brazil. My research interests lie at the intersection of statistical modeling, machine learning, and uncertainty quantification. I teach modern statistical methods and work on applied research projects, often in time series, actuarial science, and risk modeling.
+Hi! I’m an Assistant Professor of Statistics at the Federal University of São Carlos (UFSCar), Brazil. My research interests lie at the intersection of statistical modeling, machine learning, and uncertainty quantification. I teach statistical methods and work on applied research projects, often in time series, machine learning, actuarial science, and Bayesian statistics. 
 
 ## Education
-- **PhD in Statistics**, **University of São Paulo (USP)**, including a one-year visiting period at Bocconi University.
-- **MSc in Statistics**, **University of São Paulo (USP)**
-- **BSc in Statistics**, **University of São Paulo (USP)**
+- PhD in Statistics, University of São Paulo (USP), with a one-year visiting period at Bocconi University.
+- MSc in Statistics, University of São Paulo (USP)
+- BSc in Statistics, University of São Paulo (USP)
 
 ## Research interests
 - Time series forecasting (including integer-valued forecasting)
 - Uncertainty quantification and conformal prediction
 - Actuarial / insurance applications: mortality & longevity, frequency–severity modeling, and agricultural risk
 
-If you’re a student interested in research (or a collaborator), feel free to reach out.
+If you’re a student interested in research (or a collaborator), feel free to reach out [helton@ufscar.br](mailto:helton@ufscar.br). 
+.
