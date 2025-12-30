@@ -19,5 +19,4 @@ Hi! I’m an Assistant Professor of Statistics at the Federal University of São
 - Uncertainty quantification and conformal prediction
 - Actuarial / insurance applications: mortality & longevity, frequency–severity modeling, and agricultural risk
 
-If you’re a student interested in research (or a collaborator), feel free to reach out [helton@ufscar.br](mailto:helton@ufscar.br). 
-.
+If you’re a student interested in research (or a collaborator), feel free to reach out ([helton@ufscar.br](mailto:helton@ufscar.br)).
