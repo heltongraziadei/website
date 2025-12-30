@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink:  
 excerpt: 
-date: 2024-12-02
+date: 2025-09-02
 venue: 'Brazilian Journal of Risk and Insurance'
 slidesurl: 
 paperurl: 'https://ens.edu.br/rbrs/33/181'
