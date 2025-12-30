@@ -1,13 +1,12 @@
 ---
-title: "AConformal prediction for frequency-severity modeling"
+title: "Artificial Intelligence for Mortality Forecasting using Pension Plans Data (portuguese)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink:  
 excerpt: 
-date: 2025-10-28
-venue: 'Journal of Applied Statistics'
+date: 2025-12-02
+venue: 'Brazilian Journal of Risk and Insurance'
 slidesurl: 
-paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02664763.2025.2567988'
-bibtexurl: 
+paperurl: 'https://ens.edu.br/rbrs/33/181'
 citation: 
 ---
