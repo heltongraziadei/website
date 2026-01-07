@@ -10,7 +10,7 @@ slidesurl:
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02664763.2025.2567988'
 bibtexurl: 
 citation:
-author:
+authors:
   - "Helton Graziadei"
   - "Paulo C. Marques F."
   - "Eduardo F. L. de Melo"
