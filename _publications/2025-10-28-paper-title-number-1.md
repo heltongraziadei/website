@@ -9,5 +9,10 @@ venue: 'Journal of Applied Statistics'
 slidesurl: 
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02664763.2025.2567988'
 bibtexurl: 
-citation: 
+citation:
+authors:
+  - "Helton Graziadei"
+  - "Paulo C. Marques F."
+  - "Eduardo F. L. de Melo"
+  - "Rodrigo S. Targino"
 ---
