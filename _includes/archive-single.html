@@ -32,7 +32,11 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.collection == 'publications' and post.authors %}
+        <p class="page__meta">{{ post.authors | join: ", " }}</p>
+      {% endif %}
     </h2>
+  
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
