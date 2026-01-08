@@ -1,16 +1,16 @@
 ---
-title: "Artificial Intelligence for Mortality Forecasting using Pension Plans Data (portuguese)"
+title: "Bayesian generalizations of the integer-valued autoregressive model"
 collection: publications
 category: manuscripts
 permalink:  
 excerpt: 
-date: 2025-09-02
-venue: 'Brazilian Journal of Risk and Insurance'
+date: 2022-10-01
+venue: 'Journal of Applied Statistics'
 slidesurl: 
-paperurl: 'https://ens.edu.br/rbrs/33/181'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02664763.2020.1812544'
 citation: 
 authors:
-  - "Eduardo F. L. de Melo"
+  - "Paulo C. Marques F."
   - "Helton Graziadei"
-  - "Rodrigo S. Targino"
+  - "Hedibert F. Lopes"
 ---
