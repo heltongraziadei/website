@@ -9,4 +9,8 @@ venue: 'Brazilian Journal of Risk and Insurance'
 slidesurl: 
 paperurl: 'https://ens.edu.br/rbrs/33/181'
 citation: 
+authors:
+  - "Helton Graziadei"
+  - "Eduardo F. L. de Melo"
+  - "Rodrigo S. Targino"
 ---
