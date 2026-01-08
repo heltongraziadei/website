@@ -16,7 +16,7 @@ Hi! I’m an Assistant Professor of Statistics at the Federal University of São
 - BSc in Statistics, University of São Paulo (USP)
 
 ## Research interests
-- Time series forecasting (including integer-valued forecasting)
+- Time series forecasting (including integer-valued models)
 - Uncertainty quantification and conformal prediction
 - Actuarial / insurance applications: mortality & longevity, frequency–severity modeling, and agricultural risk
 
