@@ -7,7 +7,7 @@ excerpt:
 date: 2025-10-01
 venue: 'Brazilian Journal of Risk and Insurance'
 slidesurl: 
-paperurl: 'https://ens.edu.br/rbrs/33/181'
+paperurl: 'https://ens.edu.br/rbrs/33/174'
 citation: 
 authors:
   - "Helton Graziadei"
